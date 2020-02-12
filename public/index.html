@@ -3,9 +3,8 @@
   <head>
     <meta charset="utf-8" />
     <!-- Materialized CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
-    <!-- Materialized JavaScript -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans|Work+Sans:400,900&display=swap" rel="stylesheet">
@@ -34,17 +33,12 @@
     -->
     <title>Defunct Disney - A Memory Game</title>
   </head>
-
-    <nav>
-    <div class="nav-wrapper white nav-text">
-      <a href="#" class="brand-logo center nav-text">Logo</a>
-      <ul id="nav-mobile" class="left hide-on-med-and-down">
-        <li><a href="sass.html">Sass</a></li>
-        <li><a href="badges.html">Components</a></li>
-        <li><a href="collapsible.html">JavaScript</a></li>
-      </ul>
-    </div>
-  </nav>
+    <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      var elems = document.querySelectorAll('.sidenav');
+      var instances = M.Sidenav.init(elems, {edge: 'left', showOverlay: false});
+    });
+    </script>
   <body>
   
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -61,5 +55,11 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+    <!-- Materialized JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+
+
   </body>
 </html>
