@@ -13,18 +13,34 @@
 .nav-wrapper h3 {
     line-height:0;
 }
+.navpadding {
+    padding-left:3vw;
+    padding-right:3vw;
+}
 
 #tagline {
-    padding-left:2vw ;
+    padding-left:1vw;
+    padding-right:2vw;
+}
+
+#tagline-mobile {
+    font-size: small;
+    line-height: 1;
+    padding: 3ch;
+}
+
+.sidenav li > a {
+    color: #b52e90;
 }
 
 .sidenav-overlay {
     z-index: 800
   }
   
-  .App-logo {
+.App-logo {
     max-height: 100%;
     pointer-events: none;
+    display: inline-block;
   }
   
   .heartbeat {

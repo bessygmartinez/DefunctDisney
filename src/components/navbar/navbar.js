@@ -7,24 +7,24 @@ function Navbar() {
         <div className="navbar-fixed">
       <nav>
       <div className="nav-wrapper white nav-text">    
-        <img src={logo} className="brand-logo right App-logo heartbeat" alt="retro mickey ears" />
-        <a href="index" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>
+        <a href="index"><img src={logo} className="brand-logo right App-logo heartbeat" alt="retro mickey ears" /></a>
+        <a href="index" data-target="mobile-nav" className="sidenav-trigger"><i className="material-icons">menu</i></a>
 
           <ul id="nav-mobile" className="left hide-on-med-and-down">              
-            <li><h3><b>DefunctDisney</b></h3></li>
+            <li><b className="col s4"><h3><b>DefunctDisney</b></h3></b></li>
             <li><div id="tagline">A memory game featuring defunct Walt Disney World rides.</div></li>
-          <li><a href="collapsible.html">Learn more about the rides...</a></li>
-          <li><a href="https://github.com/bessygmartinez/DefunctDisney" target="_new">GitHub Repo</a></li>
+            <li><a className="navpadding waves-effect waves-light modal-trigger" href="#how-to-play">How to Play</a></li>
+            <li><a className="navpadding waves-effect waves-light" href="./rides.json">About the Rides</a></li>
         </ul>
       </div>
     </nav>
 
 
-    <ul className="sidenav" id="mobile-demo">
-    <li><a href="sass.html">Sass</a></li>
-    <li><a href="badges.html">Components</a></li>
-    <li><a href="collapsible.html">Javascript</a></li>
-    <li><a href="mobile.html">Mobile</a></li>
+    <ul className="sidenav" id="mobile-nav">
+    <li><h4><b>DefunctDisney</b></h4></li>
+        <li><div id="tagline-mobile">A memory game featuring defunct Walt Disney World rides.</div></li>
+        <li><a className="waves-effect waves-light modal-trigger" href="#how-to-play">How to Play</a></li>
+        <li><a className="waves-effect waves-light" href="rides.html">About the Rides</a></li>
   </ul>
     </div>  
     )
