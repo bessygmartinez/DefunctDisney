@@ -1,0 +1,12 @@
+.footercr {
+    background-color: #3c334a !important;
+    padding-top:0 !important;
+}
+
+.footer-copyright .container a {
+    color: white;
+}
+
+.githubicon i {
+    font-size: calc(20px + 2vmin);
+}
