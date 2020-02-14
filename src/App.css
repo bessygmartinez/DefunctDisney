@@ -1,6 +1,7 @@
 body {
   font-family: 'Work Sans', sans-serif;
   color: #3c334a;
+  font-size: calc(5px + 1.8vmin);
   background-color: transparent;
   background-image: url('./bg.svg');
   background-attachment: fixed;
@@ -9,7 +10,8 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  font-size: calc(5px + 1.8vmin);
-  color: #3c334a;
-  font-family: 'Work Sans', sans-serif;
+}
+
+main {
+  flex: 1 0 auto;
 }
