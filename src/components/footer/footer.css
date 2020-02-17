@@ -10,3 +10,9 @@
 .githubicon i {
     font-size: calc(20px + 2vmin);
 }
+
+.page-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
