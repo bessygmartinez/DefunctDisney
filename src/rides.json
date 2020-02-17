@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "name": "Horizons",
         "image": "/img/horizons.jpg",
         "location": "EPCOT Center",
@@ -8,7 +8,7 @@
         "date_closed": "Jan. 9, 1999"
     },
     {
-        "id": 2,
+        "id": 1,
         "name": "20,000 Leagues Under the Sea: Submarine Voyage",
         "image": "/img/20kLeagues.jpg",
         "location": "Magic Kingdom",
@@ -16,7 +16,7 @@
         "date_closed": "Sept. 5, 1994"
     },
     {
-        "id": 3,
+        "id": 2,
         "name": "Studio Backlot Tour",
         "image": "/img/BacklotTour.jpg",
         "location": "Disney's Hollywood Studios (f/k/a MGM Studios)",
@@ -24,7 +24,7 @@
         "date_closed": "Sept. 27, 2014"
     },
     {
-        "id": 4,
+        "id": 3,
         "name": "El Rio del Tiempo ('The River of Time')",
         "image": "/img/ElRioDelTiempo.jpg",
         "location": "EPCOT Center",
@@ -32,7 +32,7 @@
         "date_closed": "Jan. 2, 2007"
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "The Great Movie Ride",
         "image": "/img/GreatMovieRide.jpg",
         "location": "Disney's Hollywood Studios",
@@ -40,7 +40,7 @@
         "date_closed": "Aug. 13, 2007"
     },
     {
-        "id": 6,
+        "id": 5,
         "name": "Innoventions",
         "image": "/img/Innoventions.jpg",
         "location": "EPCOT Center",
@@ -48,7 +48,7 @@
         "date_closed": "Sept. 7, 2019"
     },
     {
-        "id": 7,
+        "id": 6,
         "name": "Maelstrom",
         "image": "/img/Maelstrom.jpg",
         "location": "EPCOT Center",
@@ -56,7 +56,7 @@
         "date_closed": "Oct. 5, 2014"
     },
     {
-        "id": 8,
+        "id": 7,
         "name": "Mr. Toad's Wild Ride",
         "image": "/img/MrToadsWildRide.jpg",
         "location": "Magic Kingdom",
@@ -64,7 +64,7 @@
         "date_closed": "Sept. 7, 1998"
     },
     {
-        "id": 9,
+        "id": 8,
         "name": "Snow White's Scary Adventures",
         "image": "/img/SnowWhiteAdventures.jpg",
         "location": "Magic Kingdom",
@@ -72,7 +72,7 @@
         "date_closed": "May 31, 2012"
     },
     {
-        "id": 10,
+        "id": 9,
         "name": "The Sum of All Thrills",
         "image": "/img/SumofAllThrills.jpg",
         "location": "EPCOT Center",
@@ -80,7 +80,7 @@
         "date_closed": "Sept. 14, 2016"
     },
     {
-        "id": 11,
+        "id": 10,
         "name": "The Universe of Energy",
         "image": "/img/UniverseofEnergy.jpg",
         "location": "EPCOT Center",
@@ -88,7 +88,7 @@
         "date_closed": "Jan. 21, 1996"
     },
     {
-        "id": 12,
+        "id": 11,
         "name": "World of Motion",
         "image": "/img/WorldofMotion.jpg",
         "location": "EPCOT Center",
