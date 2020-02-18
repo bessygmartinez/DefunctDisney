@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Horizons",
-        "image": "../img/horizons.jpg",
+        "image": "/public/img/horizons.jpg",
         "location": "EPCOT Center",
         "date_opened": "10/1/1983",
         "date_closed": "1/9/1999",
@@ -11,7 +11,7 @@
     {
         "id": 1,
         "name": "20,000 Leagues Under the Sea: Submarine Voyage",
-        "image": ".public/img/20kLeagues.jpg",
+        "image": "/public/img/20kLeagues.jpg",
         "location": "Magic Kingdom",
         "date_opened": "10/14/1971",
         "date_closed": "9/5/1994",
