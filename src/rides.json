@@ -2,7 +2,7 @@
     {
         "id": 0,
         "name": "Horizons",
-        "image": "/assets/img/horizons.jpg",
+        "image": "./assets/img/Horizons.jpg",
         "location": "EPCOT Center",
         "date_opened": "10/1/1983",
         "date_closed": "1/9/1999",
@@ -11,7 +11,7 @@
     {
         "id": 1,
         "name": "20,000 Leagues Under the Sea: Submarine Voyage",
-        "image": "/assets/img/20kLeagues.jpg",
+        "image": "./assets/img/20kLeagues.jpg",
         "location": "Magic Kingdom",
         "date_opened": "10/14/1971",
         "date_closed": "9/5/1994",
@@ -20,7 +20,7 @@
     {
         "id": 2,
         "name": "Studio Backlot Tour",
-        "image": "/assets/img/BacklotTour.jpg",
+        "image": "./assets/img/BacklotTour.jpg",
         "location": "Hollywood Studios",
         "date_opened": "5/1/1989",
         "date_closed": "9/27/2014",
@@ -29,7 +29,7 @@
     {
         "id": 3,
         "name": "El Rio del Tiempo ('The River of Time')",
-        "image": "/assets/img/ElRioDelTiempo.jpg",
+        "image": "./assets/img/ElRioDelTiempo.jpg",
         "location": "EPCOT Center",
         "date_opened": "10/1/1982",
         "date_closed": "1/2/2007",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "name": "The Great Movie Ride",
-        "image": "/assets/img/GreatMovieRide.jpg",
+        "image": "./assets/img/GreatMovieRide.jpg",
         "location": "Hollywood Studios",
         "date_opened": "5/1/1989",
         "date_closed": "8/13/2007",
@@ -47,7 +47,7 @@
     {
         "id": 5,
         "name": "Innoventions",
-        "image": "/assets/img/Innoventions.jpg",
+        "image": "./assets/img/Innoventions.jpg",
         "location": "EPCOT Center",
         "date_opened": "9/29/1994",
         "date_closed": "9/7/2019",
@@ -56,7 +56,7 @@
     {
         "id": 6,
         "name": "Maelstrom",
-        "image": "/assets/img/Maelstrom.jpg",
+        "image": "./assets/img/Maelstrom.jpg",
         "location": "EPCOT Center",
         "date_opened": "7/5/1988",
         "date_closed": "10/5/2014",
@@ -65,7 +65,7 @@
     {
         "id": 7,
         "name": "Mr. Toad's Wild Ride",
-        "image": "/assets/img/MrToadsWildRide.jpg",
+        "image": "./assets/img/MrToadsWildRide.jpg",
         "location": "Magic Kingdom",
         "date_opened": "10/1/1971",
         "date_closed": "9/7/1998",
@@ -74,7 +74,7 @@
     {
         "id": 8,
         "name": "Snow White's Scary Adventures",
-        "image": "/assets/img/SnowWhiteAdventures.jpg",
+        "image": "./assets/img/SnowWhiteAdventures.jpg",
         "location": "Magic Kingdom",
         "date_opened": "10/1/1971",
         "date_closed": "5/31/2012",
@@ -83,7 +83,7 @@
     {
         "id": 9,
         "name": "The Sum of All Thrills",
-        "image": "/assets/img/SumofAllThrills.jpg",
+        "image": "./assets/img/SumofAllThrills.jpg",
         "location": "EPCOT Center",
         "date_opened": "10/14/2009",
         "date_closed": "9/14/2016",
@@ -92,7 +92,7 @@
     {
         "id": 10,
         "name": "The Universe of Energy",
-        "image": "/assets/img/UniverseofEnergy.jpg",
+        "image": "./assets/img/UniverseofEnergy.jpg",
         "location": "EPCOT Center",
         "date_opened": "10/1/1982",
         "date_closed": "1/21/1996",
@@ -101,7 +101,7 @@
     {
         "id": 11,
         "name": "World of Motion",
-        "image": "/assets/img/WorldofMotion.jpg",
+        "image": "./assets/img/WorldofMotion.jpg",
         "location": "EPCOT Center",
         "date_opened": "10/1/1982",
         "date_closed": "1/2/1996",
