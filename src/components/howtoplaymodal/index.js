@@ -1,1 +1,1 @@
-export { default } from "./howtowplaymodal";
+export { default } from "./howtoplaymodal";
