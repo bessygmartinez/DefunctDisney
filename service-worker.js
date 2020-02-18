@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/DefunctDisney/precache-manifest.5fc6787a422b68df2c4ab083e1a3ee0d.js"
+  "/DefunctDisney/precache-manifest.53e224c3dd04bb889c5ec7359c02d6eb.js"
 );
 
 self.addEventListener('message', (event) => {
