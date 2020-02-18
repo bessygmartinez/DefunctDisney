@@ -4,95 +4,107 @@
         "name": "Horizons",
         "image": "/img/horizons.jpg",
         "location": "EPCOT Center",
-        "date_opened": "Oct. 1, 1983",
-        "date_closed": "Jan. 9, 1999"
+        "date_opened": "10/1/1983",
+        "date_closed": "1/9/1999",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/Horizons"
     },
     {
         "id": 1,
         "name": "20,000 Leagues Under the Sea: Submarine Voyage",
         "image": "/img/20kLeagues.jpg",
         "location": "Magic Kingdom",
-        "date_opened": "Oct. 14, 1971",
-        "date_closed": "Sept. 5, 1994"
+        "date_opened": "10/14/1971",
+        "date_closed": "9/5/1994",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/20%2C000_Leagues_Under_the_Sea%3A_Submarine_Voyage"
     },
     {
         "id": 2,
         "name": "Studio Backlot Tour",
         "image": "/img/BacklotTour.jpg",
-        "location": "Disney's Hollywood Studios (f/k/a MGM Studios)",
-        "date_opened": "May 1, 1989",
-        "date_closed": "Sept. 27, 2014"
+        "location": "Hollywood Studios",
+        "date_opened": "5/1/1989",
+        "date_closed": "9/27/2014",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/Studio_Backlot_Tour"
     },
     {
         "id": 3,
         "name": "El Rio del Tiempo ('The River of Time')",
         "image": "/img/ElRioDelTiempo.jpg",
         "location": "EPCOT Center",
-        "date_opened": "Oct. 1, 1982",
-        "date_closed": "Jan. 2, 2007"
+        "date_opened": "10/1/1982",
+        "date_closed": "1/2/2007",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/El_Rio_del_Tiempo"
     },
     {
         "id": 4,
         "name": "The Great Movie Ride",
         "image": "/img/GreatMovieRide.jpg",
-        "location": "Disney's Hollywood Studios",
-        "date_opened": "May 1, 1989",
-        "date_closed": "Aug. 13, 2007"
+        "location": "Hollywood Studios",
+        "date_opened": "5/1/1989",
+        "date_closed": "8/13/2007",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/The_Great_Movie_Ride"
     },
     {
         "id": 5,
         "name": "Innoventions",
         "image": "/img/Innoventions.jpg",
         "location": "EPCOT Center",
-        "date_opened": "Sept. 29, 1994",
-        "date_closed": "Sept. 7, 2019"
+        "date_opened": "9/29/1994",
+        "date_closed": "9/7/2019",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/Innoventions_(Epcot)"
     },
     {
         "id": 6,
         "name": "Maelstrom",
         "image": "/img/Maelstrom.jpg",
         "location": "EPCOT Center",
-        "date_opened": "July 5, 1988",
-        "date_closed": "Oct. 5, 2014"
+        "date_opened": "7/5/1988",
+        "date_closed": "10/5/2014",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/Maelstrom"
     },
     {
         "id": 7,
         "name": "Mr. Toad's Wild Ride",
         "image": "/img/MrToadsWildRide.jpg",
         "location": "Magic Kingdom",
-        "date_opened": "Oct. 1, 1971",
-        "date_closed": "Sept. 7, 1998"
+        "date_opened": "10/1/1971",
+        "date_closed": "9/7/1998",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/Mr._Toad's_Wild_Ride#Magic%20Kingdom"
     },
     {
         "id": 8,
         "name": "Snow White's Scary Adventures",
         "image": "/img/SnowWhiteAdventures.jpg",
         "location": "Magic Kingdom",
-        "date_opened": "Oct. 1, 1971",
-        "date_closed": "May 31, 2012"
+        "date_opened": "10/1/1971",
+        "date_closed": "5/31/2012",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/Snow_White's_Scary_Adventures#Magic%20Kingdom"
     },
     {
         "id": 9,
         "name": "The Sum of All Thrills",
         "image": "/img/SumofAllThrills.jpg",
         "location": "EPCOT Center",
-        "date_opened": "Oct. 14, 2009",
-        "date_closed": "Sept. 14, 2016"
+        "date_opened": "10/14/2009",
+        "date_closed": "9/14/2016",
+        "disney_wiki_link": "https://en.wikipedia.org/wiki/The_Sum_of_All_Thrills"
     },
     {
         "id": 10,
         "name": "The Universe of Energy",
         "image": "/img/UniverseofEnergy.jpg",
         "location": "EPCOT Center",
-        "date_opened": "Oct. 1, 1982",
-        "date_closed": "Jan. 21, 1996"
+        "date_opened": "10/1/1982",
+        "date_closed": "1/21/1996",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/Universe_of_Energy_(Original)"
     },
     {
         "id": 11,
         "name": "World of Motion",
         "image": "/img/WorldofMotion.jpg",
         "location": "EPCOT Center",
-        "date_opened": "Oct. 1, 1982",
-        "date_closed": "Jan. 2, 1996"
+        "date_opened": "10/1/1982",
+        "date_closed": "1/2/1996",
+        "disney_wiki_link": "https://disney.fandom.com/wiki/World_of_Motion"
     }
 ]
