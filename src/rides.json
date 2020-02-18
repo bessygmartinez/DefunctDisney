@@ -11,7 +11,7 @@
     {
         "id": 1,
         "name": "20,000 Leagues Under the Sea: Submarine Voyage",
-        "image": "/public/img/20kLeagues.jpg",
+        "image": "public/img/20kLeagues.jpg",
         "location": "Magic Kingdom",
         "date_opened": "10/14/1971",
         "date_closed": "9/5/1994",
