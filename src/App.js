@@ -1,18 +1,20 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
-import AboutRides from "./AboutRides";
+import { HashRouter  as Router, Route, Switch } from "react-router-dom";
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
-import "./App.css";
 import RidesGame from "./components/ridesGame";
+import AboutRides from "./AboutRides";
+import "./App.css";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename="/">
       <div>
         <Navbar />
+        <Switch>
         <Route exact path="/" component={RidesGame} />
         <Route path="/AboutRides" component={AboutRides} />
+        </Switch>
       </div>
 
       <footer>
