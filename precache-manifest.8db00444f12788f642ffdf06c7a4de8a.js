@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b462646736ea123226fdf8ccc19ac157",
+    "revision": "817d6bcba917a0b0e24b31faf28359c2",
     "url": "/DefunctDisney/index.html"
   },
   {
-    "revision": "1e19e61370810c31bf1d",
-    "url": "/DefunctDisney/static/css/main.bb25e770.chunk.css"
+    "revision": "fac8ac5c0d1af6fed6e2",
+    "url": "/DefunctDisney/static/css/main.d0a597ec.chunk.css"
   },
   {
-    "revision": "44dd5c53c0010f0d51a2",
-    "url": "/DefunctDisney/static/js/2.ea4b7843.chunk.js"
+    "revision": "e3b388b82956520ae723",
+    "url": "/DefunctDisney/static/js/2.c51f2dbc.chunk.js"
   },
   {
     "revision": "0897a2af4d47251d787cefe2723205c2",
-    "url": "/DefunctDisney/static/js/2.ea4b7843.chunk.js.LICENSE.txt"
+    "url": "/DefunctDisney/static/js/2.c51f2dbc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1e19e61370810c31bf1d",
-    "url": "/DefunctDisney/static/js/main.58f5802d.chunk.js"
+    "revision": "fac8ac5c0d1af6fed6e2",
+    "url": "/DefunctDisney/static/js/main.f8ec5b78.chunk.js"
   },
   {
     "revision": "d48993e74a2237de40f7",
