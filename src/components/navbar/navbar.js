@@ -29,7 +29,7 @@ function Navbar() {
         <li><div id="tagline-mobile">A memory game featuring defunct Walt Disney World rides.</div></li>
         <li><Link to="/" className="waves-effect waves-light">Home</Link></li>
         <li><a className="waves-effect waves-light modal-trigger" href="#how-to-play">How to Play</a></li>
-        <li><Link to="#/AboutRides" className="waves-effect waves-light">About the Rides</Link></li>
+        <li><a className="waves-effect waves-light" href="#/AboutRides">About the Rides</a></li>
   </ul>
     </div>  
     )
