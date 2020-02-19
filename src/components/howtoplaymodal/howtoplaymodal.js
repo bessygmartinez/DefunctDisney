@@ -1,5 +1,6 @@
 import React from "react";
 import "./howtoplaymodal.css";
+import { Link } from "react-router-dom";
 
 function HowToPlayModal() {
   return (
@@ -19,9 +20,9 @@ function HowToPlayModal() {
         </p>
       </div>
       <div className="modal-footer">
-        <a href="#!" className="modal-close waves-effect orange darken-3 btn align-center">
+        <Link to="#" className="modal-close waves-effect orange darken-3 btn align-center">
           Got It!
-        </a>
+        </Link>
       </div>
     </div>
   );
