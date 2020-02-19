@@ -8,7 +8,7 @@ import RidesGame from "./components/ridesGame";
 
 function App() {
   return (
-    <Router basename={process.env.PUBLIC_URL + '/'}>
+    <Router basename={process.env.PUBLIC_URL}>
       <div>
         <Navbar />
         <Route exact path="/" component={RidesGame} />
