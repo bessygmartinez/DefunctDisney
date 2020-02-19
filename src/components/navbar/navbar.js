@@ -18,7 +18,7 @@ function Navbar() {
             <li><div id="tagline">A memory game featuring defunct Walt Disney World rides.</div></li>
             <li><a className="navpadding waves-effect waves-light" href="/">Home</a></li>
             <li><a className="navpadding waves-effect waves-light modal-trigger" href="#how-to-play">How to Play</a></li>
-            <li><a className="navpadding waves-effect waves-light" href="/AboutRides">About the Rides</a></li>
+            <li><a className="navpadding waves-effect waves-light" href="#/AboutRides">About the Rides</a></li>
         </ul>
       </div>
     </nav>
@@ -29,7 +29,7 @@ function Navbar() {
         <li><div id="tagline-mobile">A memory game featuring defunct Walt Disney World rides.</div></li>
         <li><a className="waves-effect waves-light" href="/">Home</a></li>
         <li><a className="waves-effect waves-light modal-trigger" href="#how-to-play">How to Play</a></li>
-        <li><Link to="/AboutRides" className="waves-effect waves-light">About the Rides</Link></li>
+        <li><Link to="#/AboutRides" className="waves-effect waves-light">About the Rides</Link></li>
   </ul>
     </div>  
     )
