@@ -28,6 +28,14 @@
     text-align: center;
 }
 
+span.card-title a {
+    color:white;
+}
+
+span.card-title a:hover {
+    color: grey;
+}
+
 .card-row {
     float:left;
 }
