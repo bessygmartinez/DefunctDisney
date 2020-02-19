@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2ab6a6ee4045e2730f01c1c1e9d3e8e",
+    "revision": "c3779de3c8c512f2128d80f5ecc3974b",
     "url": "/DefunctDisney/index.html"
   },
   {
-    "revision": "1cf74bc10767fce67801",
+    "revision": "2055f93a9492e6b4aeb3",
     "url": "/DefunctDisney/static/css/main.31ad7f69.chunk.css"
   },
   {
-    "revision": "9797028c7fd07baa0b2a",
-    "url": "/DefunctDisney/static/js/2.b22e361b.chunk.js"
+    "revision": "2ead30dfc27de569315c",
+    "url": "/DefunctDisney/static/js/2.87cd17c8.chunk.js"
   },
   {
     "revision": "0897a2af4d47251d787cefe2723205c2",
-    "url": "/DefunctDisney/static/js/2.b22e361b.chunk.js.LICENSE.txt"
+    "url": "/DefunctDisney/static/js/2.87cd17c8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1cf74bc10767fce67801",
-    "url": "/DefunctDisney/static/js/main.46103060.chunk.js"
+    "revision": "2055f93a9492e6b4aeb3",
+    "url": "/DefunctDisney/static/js/main.7a8d8409.chunk.js"
   },
   {
     "revision": "d48993e74a2237de40f7",

@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/DefunctDisney/static/css/main.31ad7f69.chunk.css",
-    "main.js": "/DefunctDisney/static/js/main.46103060.chunk.js",
-    "main.js.map": "/DefunctDisney/static/js/main.46103060.chunk.js.map",
+    "main.js": "/DefunctDisney/static/js/main.7a8d8409.chunk.js",
+    "main.js.map": "/DefunctDisney/static/js/main.7a8d8409.chunk.js.map",
     "runtime-main.js": "/DefunctDisney/static/js/runtime-main.6e74032a.js",
     "runtime-main.js.map": "/DefunctDisney/static/js/runtime-main.6e74032a.js.map",
-    "static/js/2.b22e361b.chunk.js": "/DefunctDisney/static/js/2.b22e361b.chunk.js",
-    "static/js/2.b22e361b.chunk.js.map": "/DefunctDisney/static/js/2.b22e361b.chunk.js.map",
+    "static/js/2.87cd17c8.chunk.js": "/DefunctDisney/static/js/2.87cd17c8.chunk.js",
+    "static/js/2.87cd17c8.chunk.js.map": "/DefunctDisney/static/js/2.87cd17c8.chunk.js.map",
     "index.html": "/DefunctDisney/index.html",
-    "precache-manifest.f91cc5c323455ed0f06eae6972ca4d01.js": "/DefunctDisney/precache-manifest.f91cc5c323455ed0f06eae6972ca4d01.js",
+    "precache-manifest.9a41648b66b309cbf1efa5b3179284bf.js": "/DefunctDisney/precache-manifest.9a41648b66b309cbf1efa5b3179284bf.js",
     "service-worker.js": "/DefunctDisney/service-worker.js",
     "static/css/main.31ad7f69.chunk.css.map": "/DefunctDisney/static/css/main.31ad7f69.chunk.css.map",
-    "static/js/2.b22e361b.chunk.js.LICENSE.txt": "/DefunctDisney/static/js/2.b22e361b.chunk.js.LICENSE.txt",
+    "static/js/2.87cd17c8.chunk.js.LICENSE.txt": "/DefunctDisney/static/js/2.87cd17c8.chunk.js.LICENSE.txt",
     "static/media/App.css": "/DefunctDisney/static/media/bg.06255a52.svg",
     "static/media/logo.svg": "/DefunctDisney/static/media/logo.72d80214.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6e74032a.js",
-    "static/js/2.b22e361b.chunk.js",
+    "static/js/2.87cd17c8.chunk.js",
     "static/css/main.31ad7f69.chunk.css",
-    "static/js/main.46103060.chunk.js"
+    "static/js/main.7a8d8409.chunk.js"
   ]
 }
