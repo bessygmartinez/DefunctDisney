@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { HashRouter as Router, Route } from "react-router-dom";
 import AboutRides from "./AboutRides";
 import Navbar from "./components/navbar";
 import Footer from "./components/footer";
@@ -8,7 +8,7 @@ import RidesGame from "./components/ridesGame";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/">
       <div>
         <Navbar />
         <Route exact path="/" component={RidesGame} />
